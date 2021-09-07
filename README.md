@@ -196,6 +196,25 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dmean`][@stdlib/stats/base/dmean]: calculate the arithmetic mean of a double-precision floating-point strided array.
+-   [`@stdlib/stats/base/dnanmeanpn`][@stdlib/stats/base/dnanmeanpn]: calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values and using a two-pass error correction algorithm.
+-   [`@stdlib/stats/base/meanpn`][@stdlib/stats/base/meanpn]: calculate the arithmetic mean of a strided array using a two-pass error correction algorithm.
+-   [`@stdlib/stats/base/smeanpn`][@stdlib/stats/base/smeanpn]: calculate the arithmetic mean of a single-precision floating-point strided array using a two-pass error correction algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -260,6 +279,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@neely:1966a]: https://doi.org/10.1145/365719.365958
 
 [@schubert:2018a]: https://doi.org/10.1145/3221269.3223036
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dmean]: https://github.com/stdlib-js/stats-base-dmean
+
+[@stdlib/stats/base/dnanmeanpn]: https://github.com/stdlib-js/stats-base-dnanmeanpn
+
+[@stdlib/stats/base/meanpn]: https://github.com/stdlib-js/stats-base-meanpn
+
+[@stdlib/stats/base/smeanpn]: https://github.com/stdlib-js/stats-base-smeanpn
+
+<!-- </related-links> -->
 
 </section>
 
