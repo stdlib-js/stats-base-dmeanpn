@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-04-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9832ef4`](https://github.com/stdlib-js/stdlib/commit/9832ef44d25da27f865073661bde886af90cc9b4) - **docs:** update examples to use `random/array` utilities [(#6836)](https://github.com/stdlib-js/stdlib/pull/6836) _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`ce86a5d`](https://github.com/stdlib-js/stdlib/commit/ce86a5d7a15f0bc79349d46ecbc661f270c7025b) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dmeanpn` [(#6510)](https://github.com/stdlib-js/stdlib/pull/6510) _(by Gururaj Gurram, Athan Reines)_
 -   [`eca796b`](https://github.com/stdlib-js/stdlib/commit/eca796be22370f8e6ffce1157bd077e14428c236) - **refactor:** update paths _(by Aayush Khanna)_
